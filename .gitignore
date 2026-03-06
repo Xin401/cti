@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.zip
+*.log
+.aws-sam/
+.vscode/
+

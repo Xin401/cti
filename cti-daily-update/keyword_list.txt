@@ -1,0 +1,442 @@
+F5
+WhatsUp
+fortinet
+Microsoft
+Palo Alto
+Cisco Catalyst 9800
+Cisco Catalyst 9200
+Cisco ASA
+Firepower 1010
+Firepower 2130
+Office
+VMware esxi
+VMware Esxi
+VMware vCenter
+macOS
+apple
+Apple
+Windows
+ffdshow
+CBTgo
+X265
+Q-Dir
+FLIR
+ELAN FingerPrint
+Cypress
+QSPR
+Conexant
+AFPClient
+Valor
+FlashLoader
+Siemens
+AURA
+SYMMA
+Simics
+GoTo Opener
+GPX
+SAP
+Npcap
+Ambarella AmbaUSB
+Dynamic
+ZWCAD
+Audacity
+Autodesk DWG TrueView
+Omron
+Visual Basic
+ALL-200G
+STP Viewer
+KeyShot
+Greenshot
+j5create wormhole switch
+SR Design Tool
+CCleaner
+TJ1
+Azul Zulu JDK
+Dev-C++
+SDKs
+CAMPro
+Documentation
+CY4500 EZ-PD Protocol Analyzer
+Camera
+Silicon
+RemoveLegacyModules
+PowerMax
+Meld
+Insyde
+FileZilla
+I-ATM
+DediProg SF
+Lingoes
+Ansys
+Gizmo
+Bandizip
+RealVNC
+nanoCAD
+ToolboxProxy
+Tftpd64
+XVID
+GeoVision
+ActiveXPrintSetup
+Minitab SoftwareManager
+TSSServiSignAdapterSetup
+QMS BASIC
+CHITUBOX
+ASUS Device Activation
+KGICGCAPIATL2ADPTSetup
+Bonjour
+CamEmu Camera Emulator
+XDPA
+Vector
+IVI.NET
+Keysight
+MX887900A
+LVAKBUniAVPackage
+Richtek
+Quartus
+HS-PM Evaluation Tool
+Pleora Redistributable
+Cisco
+GNU
+PTC
+ccc-utility64
+Viavi
+MAX34451 EV Kit Software
+Gopi
+Notepad++
+Xpeedic
+Nu-Link
+OpenJDK
+ADMxxxx
+Brave
+USBPcap
+Minitab16
+CodingFrameworkCommon.Shared
+Thunderbolt
+Classic Shell
+ARM Toolchain
+LJDXPHelperUI
+I2C Expert 
+VcXsrv
+ALL-200
+ZebraDesigner
+Synergy
+ASUS
+SMC_SF_Setup
+Lattice Diamond
+Fingerprint
+MinGW
+Capture
+Foxit
+CodeMeter
+Vulkan Run Time
+REALTEK
+FlashPrint
+PL2303
+Panasonic
+NvModuleTracker
+Quick Access Service
+ITPII_Requirements2
+mRemoteNG
+PDF-Viewer
+RW-Everything
+Wireshark
+Grammarly
+Diagnostic
+Server Telecom Core Power Monitor Programming
+SViewer
+MOICA
+FastStone
+Zebra
+InQuire
+SQLite
+MPS Power Manager
+Questa
+HiPKIClient
+Panasonic-ID
+SIMCOM
+Fibocom
+AURIX
+FreeCAD
+Box Tools
+GameSDK
+Google
+Portmapper
+Catalyst Control Center
+VLC
+Chrome
+LPC
+DreamPro3
+Cadence
+ShareX
+PhotoScape
+Nvidia
+SmartView
+Xilinx
+VooV
+Creo
+NXLog-CE
+OpenVPN
+RyzenMasterSDK
+Basler Firmware
+AMI
+Texas
+LM Flash Programmer
+AccuTrac Plus
+Dell EMC
+OpenAL
+oCam
+InfReC
+WinSCP
+Infineon Memtool
+IVI
+YuantaServiSign
+MKS Platform
+TeamViewer
+Qblock
+WinMerge
+Ivanti
+Dolby
+Skype
+R&S
+VISA.NET Shared Components
+UDE
+VISA Shared Components
+AnyDesk
+Nmap
+TortoiseSVN
+SD Association
+DameWare
+SR Management Tool
+EZUSB
+Sublime
+Araxis Merge
+Lightshot-5.5.0.7
+TSBCGGPKICryptATLADPTSetup
+MATLAB
+Monitor Asset Manager
+Qualcomm
+Infineon DAS
+WinThruster
+WibuKey
+DfuSe
+Prolific Technology
+DeviceDatabase2
+Lansmont TP
+ClockJitterTool_1_6_7_6
+APIS
+Realtek
+TASKING
+NetTime
+Node.js
+EaseUS
+Adobe
+BarTender
+EtasTime.2.0.Shared
+HashTab
+Unity
+McAfee
+UDEDrivers
+Xamarin
+XMind
+GPL Ghostscript
+Arbortext
+ProArt Creator Hub Service
+Anritsu
+AI Noise Cancelation Audio
+IIS
+Broadcom
+Beyond
+Atmel
+NVIDIA
+TRACE32
+QXDM
+HxD Hex Editor
+Renesas
+ELogger
+Crystal Reports Basic
+TightVNC
+X264
+EZ-PD Protocol Analyzer
+iCloud
+WinRAR
+JSUNCAPIATLAdapter
+PL23XX
+Sentinel
+NVAPI
+pylon
+AutoID Network Navigator
+Tera Term
+IronPython
+EtasGeneral142.Sys
+DFLaunch
+iTunes
+KingstVIS
+DB Browser
+Sophos
+Branding64
+Pulse Secure
+Altair
+WDT
+EMQuest Viewer
+VMware
+ViewMate
+VectorShellExtensions32
+DSVBAHotFix
+SolidWorks
+Common Components
+Acute
+Epson
+CryptoPlugin
+Check Point
+QNX Software Center
+SyncUp
+FileSeek
+Xming
+Dotfuscator
+QIS
+Graser
+FileViewPro
+SecureConnector
+MultiMonitor
+Dassault Systemes
+U3V
+Analog
+STM32
+Cybereason
+Zoom
+DWG
+Snagit
+Qt Designer
+LTspice
+WebATM
+STMicroelectronics
+BoostV1710.Redist.x64
+Minitab Bootstrapper
+Webex
+Software-Factory
+Agilent
+PSPad editor
+ModelSim
+KMMIUSB
+Strawberry
+draw.io
+PL-2303
+Win32DiskImager
+PreEmptive
+MWSnap
+DFUDriverSetupX64Setup
+Barrier
+Trend Micro
+FortiClient
+MediaTek
+Flir
+Bang & Olufsen Audio
+Git
+EPSON
+Total Phase
+BlueJeans
+Python
+InstanceFinder
+Advanced Design System
+hspice
+7-Zip
+P&E Device Drivers
+SkyPRO
+TortoiseGit
+Monsoon PowerTool
+VectorShellExtensions64
+CrowdStrike
+IBM
+National Instruments
+ADI SDP Drivers
+WebAdvisor
+ATK Package
+GX Works3
+PSoC Programmer
+Isograph Reliability Workbench
+MobaXterm
+Logic
+PDFCreator
+Oracle
+ANT Drivers
+Armoury
+SMARTDAC+
+QBAT
+PostgreSQL
+GraserWARE
+Mentor Graphics
+VISA.NET
+PicPick
+C-Media Audio Control Panel
+Firefox
+PDFBinder
+CA-S40
+MR Serial HIL
+Redist
+OBS
+Minitab
+Automotive SwitchGUI
+Infineon DAS64
+PCMan
+Bandicam
+UDCCLauncherService
+Basler
+FileView
+CCC Help
+Xgig
+QTranslate
+EEsof
+Computing and Telecom Core
+CopyTrans
+SafeNet
+GizmoWatch
+POWER-Z
+C/C++ LDRA Tool Suite
+HiView
+APfra
+Eclipse
+DbC_Indicator
+ROG
+TeighaX
+SmartPKI
+Digilent Software
+SourceGear
+Logi Options+
+Apple
+PDF-XChange
+LogMeTT
+WinPcap
+ProductView
+HiCOS
+ETKTools
+Gpg4win
+TUSB3410
+S32
+EpsonNet
+PuTTY
+PotPlayer
+Zhejang Flashforge
+OptaneDowngradeGuard
+Intel
+Tina 9
+TTLEditor
+GZUT_OnePro
+AMD
+QDART
+FORCEPOINT
+AudioWizard
+Basler Product Documentation
+Logitech
+RstDowngradeGuard
+EZ100
+SigTest
+GenTL
+Installer
+Dropbox
+Edge3
+EB Client License Administrator
+Synaptics
+Teamcenter
+PEAK-Drivers
+QPST
+GitLab

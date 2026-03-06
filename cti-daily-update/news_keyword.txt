@@ -1,0 +1,35 @@
+勒索軟體
+社交工程
+黑客組織
+駭客組織
+DDoS
+Ransomware
+Ransom
+Crypto-locker
+Cryptolocker
+Encryption malware
+Social Engineering
+Phishing
+Spear Phishing
+Spearphishing
+Pretexting
+Baiting
+Quid pro quo
+Hacker Group
+Hacking Group
+Threat Actor
+Threat Group
+Cybercrime Group
+APT Group
+APT
+Advanced Persistent Threat
+Nation-State Actor
+State-Sponsored
+DDoS
+Distributed Denial of Service
+Distributed Denial-of-Service
+DDoS Attack
+Denial of Service
+DoS
+DoS Attack
+Botnet

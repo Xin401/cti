@@ -1,0 +1,61 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  CVE Vulnerability Scanner
+  Daily scan from NVD and News.
+
+Globals:
+  Function:
+    Timeout: 900
+    MemorySize: 512
+    LoggingConfig:
+      LogFormat: JSON
+    Runtime: python3.12
+    CodeUri: .
+    Environment:
+      Variables:
+        IS_DRY_RUN: "false"
+        EXCEL_LOGIC_APP_WEBHOOK_URL: '{{resolve:ssm:/cve-scan/excel-logic-app-webhook-url}}'
+        EMAIL_LOGIC_APP_WEBHOOK_URL: '{{resolve:ssm:/cve-scan/email-logic-app-webhook-url}}'
+
+
+Resources:
+  NVDLambdaFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: functions.nvd.main
+      Environment:
+        Variables:
+          NVD_API_KEY: '{{resolve:ssm:/cve-scan/nvd-api-key}}'
+      Events:
+        DailyNVDTrigger:
+          Type: ScheduleV2
+          Properties:
+            ScheduleExpression: cron(0 8 * * ? *)
+            ScheduleExpressionTimezone: Asia/Taipei
+            Description: "Triggers the Lambda function daily at 8 AM Taipei time"
+            State: 'ENABLED'
+  NewsLambdaFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: functions.news.main
+      Environment:
+        Variables:
+          GPT_KEY_B64: '{{resolve:ssm:/cve-scan/gpt-key-b64}}'
+          OPENAI_URL: '{{resolve:ssm:/cve-scan/openai-url}}'
+      Events:
+        DailyNewsTrigger:
+          Type: ScheduleV2
+          Properties:
+            ScheduleExpression: cron(0 8 * * ? *)
+            ScheduleExpressionTimezone: Asia/Taipei
+            Description: "Triggers the Lambda function daily at 8:00 AM Taipei time"
+            State: 'ENABLED'
+
+Outputs:
+  NVDLambdaFunctionArn:
+    Description: "ARN of the NVD CVE Daily Update Lambda Function"
+    Value: !GetAtt NVDLambdaFunction.Arn
+  NewsLambdaFunctionArn:
+    Description: "ARN of the News Lambda Function"
+    Value: !GetAtt NewsLambdaFunction.Arn

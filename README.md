@@ -19,6 +19,7 @@ Automated scanning from the National Vulnerability Database (NVD) and security n
 ### Prerequisites (AWS)
 - [uv](https://github.com/astral-sh/uv) (v0.1.0+)
 - [AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html)
+- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 - Python 3.12+ (managed by `uv` via `.python-version`)
 
 ### Local Setup & Configuration

@@ -13,7 +13,7 @@ from .utils import send_email, send_to_logic_app
 
 warnings.filterwarnings("ignore")
 IS_DRY_RUN = os.environ.get("IS_DRY_RUN", "false").lower() == "true"
-GPT_KEY = base64.b64decode(os.getenv("GPT_KEY_B64")).decode('utf-8')
+GPT_KEY = base64.b64decode(os.getenv("GPT_KEY_B64")).decode('utf-8').strip()
 OPENAI_URL = os.getenv("OPENAI_URL")
 
 news_keyword_path = 'news_keyword.txt'

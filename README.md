@@ -25,6 +25,7 @@ Automated scanning from the National Vulnerability Database (NVD) and security n
 1.  **Initialize Environment:**
     ```bash
     cd cti-daily-update
+    uv venv --python 3.12 --seed
     uv sync
     source .venv/bin/activate
     ```
